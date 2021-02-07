@@ -1,0 +1,70 @@
+{
+			"name": "myofficialcontent",
+			"title": "My Official Content",
+			"description": "A module containing a compendium pack of official content",
+			"author": "professorxavier",
+			"version": "1.0.0",
+			"minimumCoreVersion": "0.6.0",
+			"compatibleCoreVersion":"0.7.9",
+			"packs": [
+            {
+              "name": "myofficialclasses",
+              "label": "Official Classes",
+              "system": "dnd5e",
+              "path": "packs/ddb-classes.db",
+              "entity": "Item",
+              "module": "myofficialcontent"
+            },
+            {
+              "name": "myofficialclassfeatures",
+              "label": "Official Class Features",
+              "system": "dnd5e",
+              "path": "packs/ddb-classes-features.db",
+              "entity": "Item",
+              "module": "myofficialcontent"
+            },
+            {
+              "name": "myofficialfeats",
+              "label": "Official Feats",
+              "system": "dnd5e",
+              "path": "packs/ddb-feats.db",
+              "entity": "Item",
+              "module": "myofficialcontent"
+            },
+            {
+              "name": "myofficialitems",
+              "label": "Official Items",
+              "system": "dnd5e",
+              "path": "packs/ddb-items.db",
+              "entity": "Item",
+              "module": "myofficialcontent"
+            },
+            {
+              "name": "myofficialraces",
+              "label": "Official Races",
+              "system": "dnd5e",
+              "path": "packs/ddb-races.db",
+              "entity": "Item",
+              "module": "myofficialcontent"
+            },
+            {
+              "name": "myofficialracefeatures",
+              "label": "Official Race Features",
+              "system": "dnd5e",
+              "path": "packs/ddb-classes.db",
+              "entity": "Item",
+              "module": "myofficialcontent"
+            },
+            {
+              "name": "myofficialspells",
+              "label": "Official Spells",
+              "system": "dnd5e",
+              "path": "packs/ddb-Spells.db",
+              "entity": "Item",
+              "module": "myofficialcontent"
+            }
+					],
+			"url": "https://github.com/professorxavi/fvtt-compendium/tree/main",
+			"manifest": "https://github.com/professorxavi/fvtt-compendium/blob/main/module.json",
+			"download": "https://github.com/professorxavi/fvtt-compendium/raw/main/my-compendium.zip"
+		  }
