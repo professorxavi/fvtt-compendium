@@ -65,6 +65,6 @@
             }
 					],
 			"url": "https://github.com/professorxavi/fvtt-compendium/tree/main",
-			"manifest": "https://github.com/professorxavi/fvtt-compendium/blob/main/module.json",
+			"manifest": "	https://raw.githubusercontent.com/professorxavi/fvtt-compendium/main/module.json",
 			"download": "https://github.com/professorxavi/fvtt-compendium/raw/main/my-compendium.zip"
 		  }
