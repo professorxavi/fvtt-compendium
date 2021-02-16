@@ -19,7 +19,7 @@
               "name": "myofficialclassfeatures",
               "label": "Official Class Features",
               "system": "dnd5e",
-              "path": "packs/ddb-classes-features.db",
+              "path": "packs/ddb-class-features.db",
               "entity": "Item",
               "module": "myofficialcontent"
             },
@@ -51,7 +51,7 @@
               "name": "myofficialracefeatures",
               "label": "Official Race Features",
               "system": "dnd5e",
-              "path": "packs/ddb-classes.db",
+              "path": "packs/ddb-racial-traits.db",
               "entity": "Item",
               "module": "myofficialcontent"
             },
@@ -59,7 +59,7 @@
               "name": "myofficialspells",
               "label": "Official Spells",
               "system": "dnd5e",
-              "path": "packs/ddb-Spells.db",
+              "path": "packs/ddb-spells.db",
               "entity": "Item",
               "module": "myofficialcontent"
             }
